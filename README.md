@@ -1,6 +1,4 @@
-## Notable Contributions
-
-Contributions a have made as a student:
+## Notable Contributions (as student)
 
 - **WooCommerce REST API**
   - **Description:** Fix error in documentation
