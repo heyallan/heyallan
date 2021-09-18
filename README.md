@@ -4,7 +4,7 @@
   - **Description:** Fix error in documentation
   - **URL:** https://github.com/woocommerce/woocommerce-rest-api-docs/pull/184
   - **Status:** Merged 🎉
-- **Mozilla Developer Network**
+- **Mozilla Developer Network Web Docs**
   - **Description:** Fix error in documentation
   - **URL:** https://github.com/mdn/content/pull/332
   - **Status:** Merged 🎉
