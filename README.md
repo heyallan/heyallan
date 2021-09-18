@@ -1,4 +1,4 @@
-## Contributions (as a student)
+## Contributions
 
 - **WooCommerce REST API**
   - **Description:** Fix error in documentation
@@ -9,7 +9,7 @@
   - **URL:** https://github.com/mdn/content/pull/332
   - **Status:** Merged 🎉
 - **CSS-Tricks / Serverless**
-  - **Description:** Remove outdated content from documentation
+  - **Description:** Remove outdated content
   - **URL:** https://github.com/CSS-Tricks/serverless/pull/149
   - **Status:** Merged 🎉
 - **Kirby CMS**
