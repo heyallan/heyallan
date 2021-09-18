@@ -1,5 +1,7 @@
 ## Notable Contributions
 
+Contributions a have made as a student:
+
 - **WooCommerce REST API**
   - **Description:** Fix error in documentation
   - **URL:** https://github.com/woocommerce/woocommerce-rest-api-docs/pull/184
@@ -8,7 +10,7 @@
   - **Description:** Fix link in documentation
   - **URL:** https://github.com/mdn/content/pull/332
   - **Status:** Merged 🎉
-- ****
+- **CSS-Tricks / Serverless**
   - **Description:** Remove outdated content from documentation
   - **URL:** https://github.com/CSS-Tricks/serverless/pull/149
   - **Status:** Merged 🎉
