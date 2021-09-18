@@ -3,7 +3,7 @@
 - **WooCommerce REST API**
   - **Description:** Fix error in documentation
   - **URL:** https://github.com/woocommerce/woocommerce-rest-api-docs/pull/184
-  - **Status:** Merged
+  - **Status:** Merged 🎉
 - **Mozilla Developer Network**
   - **Description:** Fix link in documentation
   - **URL:** https://github.com/mdn/content/pull/332
