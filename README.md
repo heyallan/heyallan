@@ -1,11 +1,11 @@
-## Notable Contributions (as student)
+## Notable Contributions (as a student)
 
 - **WooCommerce REST API**
   - **Description:** Fix error in documentation
   - **URL:** https://github.com/woocommerce/woocommerce-rest-api-docs/pull/184
   - **Status:** Merged 🎉
 - **Mozilla Developer Network**
-  - **Description:** Fix link in documentation
+  - **Description:** Fix error in documentation
   - **URL:** https://github.com/mdn/content/pull/332
   - **Status:** Merged 🎉
 - **CSS-Tricks / Serverless**
