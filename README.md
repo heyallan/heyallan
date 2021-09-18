@@ -1,4 +1,4 @@
-## Contributions
+## Some Contributions
 
 - **WooCommerce REST API**
   - **Description:** Fix error in documentation
