@@ -16,10 +16,10 @@ Contributions a have made as a student:
   - **Status:** Merged 🎉
 - **Kirby CMS**
   - 1
-    - **Description:** Fix typo in documentation
-    - **URL:** https://github.com/getkirby/getkirby.com/pull/1024
+    - **Description:** Add missing section to documentation
+    - **URL:** https://github.com/getkirby/getkirby.com/pull/1020
     - **Status:** Merged 🎉
   - 2
-    - **Description:** Add missing part to documentation
-    - **URL:** https://github.com/getkirby/getkirby.com/pull/1020
+    - **Description:** Fix typo in documentation
+    - **URL:** https://github.com/getkirby/getkirby.com/pull/1024
     - **Status:** Merged 🎉
