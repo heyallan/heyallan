@@ -8,6 +8,10 @@
   - **Description:** Fix link in documentation
   - **URL:** https://github.com/mdn/content/pull/332
   - **Status:** Merged 🎉
+- ****
+  - **Description:** Remove outdated content from documentation
+  - **URL:** https://github.com/CSS-Tricks/serverless/pull/149
+  - **Status:** Merged 🎉
 - **Kirby CMS**
   - 1
     - **Description:** Fix typo in documentation
