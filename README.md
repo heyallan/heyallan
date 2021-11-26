@@ -2,22 +2,22 @@
 
 - **WooCommerce REST API**
   - **Description:** Fix error in documentation
-  - **URL:** https://github.com/woocommerce/woocommerce-rest-api-docs/pull/184
   - **Status:** Merged 🎉
+  - **URL:** https://github.com/woocommerce/woocommerce-rest-api-docs/pull/184
 - **Mozilla Developer Network Web Docs**
   - **Description:** Fix error in documentation
-  - **URL:** https://github.com/mdn/content/pull/332
   - **Status:** Merged 🎉
+  - **URL:** https://github.com/mdn/content/pull/332
 - **CSS-Tricks / Serverless**
   - **Description:** Remove outdated content
-  - **URL:** https://github.com/CSS-Tricks/serverless/pull/149
   - **Status:** Merged 🎉
+  - **URL:** https://github.com/CSS-Tricks/serverless/pull/149
 - **Kirby CMS**
   - 1
     - **Description:** Add missing section to documentation
-    - **URL:** https://github.com/getkirby/getkirby.com/pull/1020
     - **Status:** Merged 🎉
+    - **URL:** https://github.com/getkirby/getkirby.com/pull/1020
   - 2
     - **Description:** Fix typo in documentation
-    - **URL:** https://github.com/getkirby/getkirby.com/pull/1024
     - **Status:** Merged 🎉
+    - **URL:** https://github.com/getkirby/getkirby.com/pull/1024
