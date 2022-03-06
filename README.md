@@ -14,10 +14,10 @@
   - **URL:** https://github.com/CSS-Tricks/serverless/pull/149
 - **Kirby CMS**
   - 1
-    - **Description:** Add missing section to documentation
+    - **Description:** Add missing section
     - **Status:** Merged 🎉
     - **URL:** https://github.com/getkirby/getkirby.com/pull/1020
   - 2
-    - **Description:** Fix typo in documentation
+    - **Description:** Fix typo
     - **Status:** Merged 🎉
     - **URL:** https://github.com/getkirby/getkirby.com/pull/1024
