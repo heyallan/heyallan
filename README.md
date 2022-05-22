@@ -1,4 +1,4 @@
-## Notable Contributions
+## Contributions
 
 - **WooCommerce REST API**
   - **Description:** Fix error in documentation
