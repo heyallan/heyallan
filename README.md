@@ -18,6 +18,6 @@
     - **Status:** Merged 🎉
     - **URL:** https://github.com/getkirby/getkirby.com/pull/1020
   - 2
-    - **Description:** Fix typo
+    - **Description:** Fix error in documentation
     - **Status:** Merged 🎉
     - **URL:** https://github.com/getkirby/getkirby.com/pull/1024
