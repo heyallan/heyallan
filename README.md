@@ -1,4 +1,4 @@
-## Open Source Contributions
+## Notable contributions
 
 - **WooCommerce REST API**
   - **Description:** Fix error in documentation
