@@ -1,23 +1,27 @@
 ## Notable contributions
 
-- **WooCommerce REST API**
-  - **Description:** Fix error in documentation
-  - **Status:** Merged 🎉
-  - **Reference:** https://github.com/woocommerce/woocommerce-rest-api-docs/pull/184
 - **Mozilla Developer Network Web Docs**
-  - **Description:** Fix error in documentation
-  - **Status:** Merged 🎉
-  - **Reference:** https://github.com/mdn/content/pull/332
+  - Fix attribute name
+    - Status: Merged 🎉
+    - Reference: https://github.com/mdn/content/pull/17332
+  - Fix example URL
+    - Status: Merged 🎉
+    - Reference: https://github.com/mdn/content/pull/17333
+  - Fix error in documentation
+    - Status: Merged 🎉
+    - Reference: https://github.com/mdn/content/pull/332
+- **WooCommerce REST API**
+  - Description: Fix error in documentation
+    - Status: Merged 🎉
+    - Reference: https://github.com/woocommerce/woocommerce-rest-api-docs/pull/184
 - **CSS-Tricks / Serverless**
-  - **Description:** Remove outdated content
-  - **Status:** Merged 🎉
-  - **Reference:** https://github.com/CSS-Tricks/serverless/pull/149
+  - Remove outdated content
+    - Status: Merged 🎉
+    - Reference: https://github.com/CSS-Tricks/serverless/pull/149
 - **Kirby CMS**
-  - 1
-    - **Description:** Add missing section
-    - **Status:** Merged 🎉
-    - **Reference:** https://github.com/getkirby/getkirby.com/pull/1020
-  - 2
-    - **Description:** Fix error in documentation
-    - **Status:** Merged 🎉
-    - **Reference:** https://github.com/getkirby/getkirby.com/pull/1024
+  - Add missing section
+    - Status: Merged 🎉
+    - Reference: https://github.com/getkirby/getkirby.com/pull/1020
+  - Fix error in documentation
+    - Status: Merged 🎉
+    - Reference: https://github.com/getkirby/getkirby.com/pull/1024
