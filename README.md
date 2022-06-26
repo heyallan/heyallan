@@ -11,3 +11,5 @@
 - **Kirby CMS**
   - Add missing section: https://github.com/getkirby/getkirby.com/pull/1020
   - Fix error in documentation: https://github.com/getkirby/getkirby.com/pull/1024
+- **PostCSS**
+  - Fix typo: https://github.com/csstools/postcss-plugins/pull/503
