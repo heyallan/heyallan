@@ -8,7 +8,6 @@
   - Fix error in documentation: https://github.com/woocommerce/woocommerce-rest-api-docs/pull/184
 - **CSS-Tricks / Serverless**
   - Remove outdated content: https://github.com/CSS-Tricks/serverless/pull/149
-  - https://github.com/PrismJS/prism/pulls?q=is:pr+is:closed+author:heyallan
 - **PrismJS**
   - Fix error in documentation: https://github.com/PrismJS/prism/pulls?q=is:pr+is:closed+author:heyallan
 - **Kirby CMS**
