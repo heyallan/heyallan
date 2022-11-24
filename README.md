@@ -1,6 +1,6 @@
 ## Notable contributions
 
-- **Mozilla Developer Network**
+- **Mozilla Developer Network Web Docs**
   - Fix attribute name: https://github.com/mdn/content/pull/17332
   - Fix URL: https://github.com/mdn/content/pull/17333
   - Fix error in documentation: https://github.com/mdn/content/pull/332
