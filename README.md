@@ -12,7 +12,7 @@
 - **CSS-Tricks Serverless**
   - Remove outdated content: https://github.com/CSS-Tricks/serverless/pull/149
 - **PrismJS**
-  - Fix error in documentation: https://github.com/PrismJS/prism/pulls?q=is:pr+is:closed+author:heyallan
+  - Fix error in documentation: https://github.com/PrismJS/prism/pull/3489
 - **Kirby CMS**
   - Add missing section: https://github.com/getkirby/getkirby.com/pull/1020
   - Fix error in documentation: https://github.com/getkirby/getkirby.com/pull/1024
