@@ -18,4 +18,4 @@
   - Fix error in documentation: https://github.com/getkirby/getkirby.com/pull/1024 (merged 🎉)
 
 - **Wasp Language**
-  - Fix typo: https://github.com/wasp-lang/wasp/pull/857
+  - Fix typo: https://github.com/wasp-lang/wasp/pull/857 (merged 🎉)
