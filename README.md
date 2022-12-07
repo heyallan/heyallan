@@ -17,3 +17,5 @@
   - Add missing section: https://github.com/getkirby/getkirby.com/pull/1020 (merged 🎉)
   - Fix error in documentation: https://github.com/getkirby/getkirby.com/pull/1024 (merged 🎉)
 
+- **Wasp Language**
+  - Fix typo: https://github.com/wasp-lang/wasp/pull/857
